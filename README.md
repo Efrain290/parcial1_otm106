@@ -1,4 +1,3 @@
-# 
 # parcial1_otm106# parcial1-OTM106
 # 06/05/2025
 # EFRAIN CABRERA ESCALIER 
